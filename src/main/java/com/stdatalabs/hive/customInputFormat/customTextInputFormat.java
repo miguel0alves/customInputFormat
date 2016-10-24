@@ -17,8 +17,9 @@ import com.stdatalabs.hive.customInputFormat.customRecordReader;;
 /**
  * A custom input format for dealing with skipping records with specific length.
  * 
- * @author Sachin Thirumala
+ * More discussion at stdatalabs.blogspot.com
  * 
+ * @author Sachin Thirumala
  */
 
 class CustomTextInputFormat extends TextInputFormat {
